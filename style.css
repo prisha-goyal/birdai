@@ -8,8 +8,8 @@ canvas {
 	position: fixed;
 	left: 20%;
 	top: 20%;
-	-ms-transform: translateY(-80%);
-	transform: translateY(-80%);
+	-ms-transform: translateY(-60%);
+	transform: translateY(-60%);
 }
 
 .myButton {
@@ -27,8 +27,8 @@ canvas {
 	position: fixed;
 	top: 80%;
 	left: 50%;
-	-ms-transform: translateY(-20%);
-	transform: translateY(-80%);
+	-ms-transform: translateY(-60%);
+	transform: translateY(-60%);
 }
 .myButton:hover {
 	background-color:#5cbf2a;
