@@ -6,8 +6,8 @@ canvas {
 	display: block;
 	margin: 0;
 	position: absolute;
-	left: 20%;
-	top: 20%;
+	left: 30%;
+	top: 10%;
 	-ms-transform: translateY(-80%);
 	transform: translateY(-20%);
 }
@@ -25,8 +25,8 @@ canvas {
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;
 	position: absolute;
-	top: 70%;
-	left: 30%;
+	top: 80%;
+	left: 40%;
 	-ms-transform: translateY(-50%);
 	transform: translateY(-50%);
 }
