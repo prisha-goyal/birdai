@@ -1,13 +1,15 @@
 html, body {
-	margin: 30px;
-	padding: 30px;
+	margin: 0;
+	padding: 0;
 }
 canvas {
-	display: round;
-	margin: 20px;
+	display: block;
+	margin: 0;
 	position: fixed;
-	left: 30%;
-	top: 10%;
+	left: 50%;
+	top: 50%;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
 }
 
 .myButton {
@@ -23,8 +25,10 @@ canvas {
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;
 	position: fixed;
-	top: 80%;
+	top: 50%;
 	left: 50%;
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
 }
 .myButton:hover {
 	background-color:#5cbf2a;
