@@ -5,11 +5,6 @@ html, body {
 canvas {
 	display: block;
 	margin: auto;
-	position: fixed;
-	left: 50%;
-	top: 50%;
-	-ms-transform: translateY(-50%);
-	transform: translateY(-50%);
 }
 
 .myButton {
@@ -25,11 +20,6 @@ canvas {
 	padding:16px 31px;
 	text-decoration:none;
 	text-shadow:0px 1px 0px #2f6627;
-	position: fixed;
-	top: 50%;
-	left: 50%;
-	-ms-transform: translateY(-50%);
-	transform: translateY(-50%);
 }
 .myButton:hover {
 	background-color:#5cbf2a;
